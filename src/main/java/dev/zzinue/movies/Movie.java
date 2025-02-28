@@ -13,7 +13,6 @@ import java.util.List;
 @AllArgsConstructor
 @NoArgsConstructor
 
-//estoy viendo si el git en windows ya funciona
 public class Movie {
     @Id
     private ObjectId id;
